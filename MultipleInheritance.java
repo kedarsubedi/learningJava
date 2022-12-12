@@ -6,7 +6,6 @@ class getData{
         principle1 = p;
         rate1=r;
         time1=t;
-
     }
     void display1()
     {
